@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JokesActivityLib</string>
+    <string name="joke_key">joke</string>
+    <string name="error_message">Sorry , There was a problem getting the jokes .   Please, try again later</string>
+    <string name="default_error_message">failed to connect to /10.0.2.2</string>
+
+</resources>
